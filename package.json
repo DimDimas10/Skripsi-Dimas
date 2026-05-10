@@ -1,0 +1,10 @@
+{
+  "name": "banking-anomaly-system-root",
+  "version": "1.0.0",
+  "description": "Root scripts untuk sistem deteksi anomali perbankan",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "install:frontend": "cd frontend && npm install",
+    "start:backend": "python backend/main.py"
+  }
+}
